@@ -3,6 +3,13 @@
 (The Update)
 Philosophy: One File. One Truth.
 
+```javascript
+
+the updates will get u soon to enhance your experience
+i hope u will like the new features and updates.
+```
+
+
 ![Version](https://img.shields.io/badge/Version-5.2.3-blue) 
 <details>
 <summary>Privacy & Security</summary>
@@ -76,6 +83,7 @@ for await (const chunk of db.exportJSON()) {
     // Stream it to a file, or just log it and feel powerful.
     console.log(chunk);
 }
+
 
 ```
 
